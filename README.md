@@ -1,4 +1,10 @@
-## Hi there 👋
+
+ <h1 align="center">Greeting!</h1>
+
+
+<p align="center">
+  <img src="gif/Frohicky.gif" width="400" />
+</p>
 
 <!--
 **CongTaiGao/CongTaiGao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
