@@ -1,6 +1,5 @@
 
- <h1 align="center">Greeting!</h1>
-
+ <h1 align="center">🌈Welcome!</h1>
 
 <p align="center">
   <img src="gif/Frohicky.gif" width="400" />
